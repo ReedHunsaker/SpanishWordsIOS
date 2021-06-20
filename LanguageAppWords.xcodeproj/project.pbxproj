@@ -16,7 +16,6 @@
 		8B5853A8266E6BAA0005569F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B5853A7266E6BAA0005569F /* Preview Assets.xcassets */; };
 		8B5853B3266E6BAA0005569F /* LanguageAppWordsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5853B2266E6BAA0005569F /* LanguageAppWordsTests.swift */; };
 		8B5853BE266E6BAA0005569F /* LanguageAppWordsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5853BD266E6BAA0005569F /* LanguageAppWordsUITests.swift */; };
-		8B931B9A2677D7BA00FB694A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B931B992677D7BA00FB694A /* GoogleService-Info.plist */; };
 		8B931B9C2677D8E800FB694A /* getWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B931B9B2677D8E800FB694A /* getWords.swift */; };
 		8BA1A698267A5EC200DBCF49 /* VocabUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA1A697267A5EC200DBCF49 /* VocabUI.swift */; };
 		8BBB8EA4267C9C0D00EDC279 /* Collections.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BBB8EA3267C9C0D00EDC279 /* Collections.swift */; };
@@ -64,7 +63,6 @@
 		8B5853B9266E6BAA0005569F /* LanguageAppWordsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LanguageAppWordsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B5853BD266E6BAA0005569F /* LanguageAppWordsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageAppWordsUITests.swift; sourceTree = "<group>"; };
 		8B5853BF266E6BAA0005569F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8B931B992677D7BA00FB694A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8B931B9B2677D8E800FB694A /* getWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getWords.swift; sourceTree = "<group>"; };
 		8BA1A697267A5EC200DBCF49 /* VocabUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabUI.swift; sourceTree = "<group>"; };
 		8BBB8EA3267C9C0D00EDC279 /* Collections.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collections.swift; sourceTree = "<group>"; };
@@ -147,7 +145,6 @@
 			children = (
 				8B2A86B8267B8D5F008A3986 /* Resources */,
 				8B5853A0266E6BA60005569F /* LanguageAppWordsApp.swift */,
-				8B931B992677D7BA00FB694A /* GoogleService-Info.plist */,
 				8B5853A2266E6BA60005569F /* ContentView.swift */,
 				8BA1A697267A5EC200DBCF49 /* VocabUI.swift */,
 				8B2A86B9267B8DC8008A3986 /* CollectionUI.swift */,
@@ -312,7 +309,6 @@
 			files = (
 				8B5853A8266E6BAA0005569F /* Preview Assets.xcassets in Resources */,
 				8B5853A5266E6BAA0005569F /* Assets.xcassets in Resources */,
-				8B931B9A2677D7BA00FB694A /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
